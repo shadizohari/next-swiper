@@ -12,7 +12,7 @@ const Slider = () => {
   return (
     <>
       <Swiper
-        // dir="rtl"
+        dir="rtl"
         navigation={true}
         className="mySwiper"
         modules={[Navigation]}
